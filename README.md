@@ -1,7 +1,2 @@
 # apl_nasabah
-aplikasi nasabah ini bisa:
-Menambahkan data nasabah
-Menampilkan data nasabah
-Mengubah data nasabah
-Menampilkan data untuk di edit
-menghapus data nasabah
+aplikasi nasabah ini bisa menambahkan data nasabah,menampilkan data nasabah,mengubah data nasabah,menampilkan form data untuk di edit,menghapus data nasabah
